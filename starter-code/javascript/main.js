@@ -78,3 +78,4 @@ btnLeft.addEventListener('click', function () {
   }
 });
 
+
